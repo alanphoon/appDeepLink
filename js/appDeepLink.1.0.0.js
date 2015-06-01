@@ -1,16 +1,9 @@
-/***********************************************
-Jquery AppStore Deep Link Plugin
-Version 1.0.0.js
-Copyright (c) Alan Phoon, www.ampedupdesigns.com  
-This notice MUST stay intact for legal use and may not be modified.
-Licensed under GNU GENERAL PUBLIC LICENSE
-***********************************************/
-
 /* ==========================================================
  * appDeepLink.js v1.0.0
- * http://www.ampedupdesigns.com
+ * https://github.com/alanphoon/jquery-appDeepLink
  * ==========================================================
- * Copyright 2015 Alan Phoon
+ * Copyright 2015 Alan Phoon, www.ampedupdesigns.com
+ * Licensed under GNU GENERAL PUBLIC LICENSE v3
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
