@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="js/appDeepLink.1.0.0.min.js"></script>
+</head>
+<body>
+	<button class="deep-link" data-deeplink="elp:///search?term=burritos">Ebates App - Sephora</button>
+	<script>
+		$('.deep-link').appDeepLink({
+			androidAppStoreLink: 'http://market.android.com/details?id=com.yelp',
+			appleAppStoreLink: 'https://itunes.apple.com/us/app/yelp/id284910350',
+			androidScheme: 'yelp',
+			androidPackage: 'com.yelp',
+		});
+	</script>
+</body>
+</html>
